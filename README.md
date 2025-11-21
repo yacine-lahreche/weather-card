@@ -1,6 +1,6 @@
 # Weather App☀️🌧️
 
-A simple weather application built with HTML, CSS, and JavaScript using the OpenWeatherMap API.
+A simple weather application built with HTML, CSS, JavaScript, and Vite using the OpenWeatherMap API.
 
 ## Features
 - Search weather globally by city name
@@ -10,10 +10,11 @@ A simple weather application built with HTML, CSS, and JavaScript using the Open
 ## Technologies
 - HTML
 - CSS
-- JavaScript (Fetch API + Async/Await)
+- JavaScript (Axios API + Async/Await)
+- Vite 
 
 ## How to Use
 1. Clone the repo
-2. Go to the script file and enter your API KEY
+2. Go to the `main.js` file in `..\weatherCard\vite-project\src` and enter your API KEY
 3. Open `index.html` in your browser
 4. Type a city name and hit the search button!
